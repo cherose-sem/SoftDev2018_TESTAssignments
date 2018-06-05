@@ -1,0 +1,10 @@
+,Bandwith,Browser,Resolution,Page
+1,Slow,Google Chrome,1920*1080,Success Page 
+2,Slow,Safari,1600*900,Not found
+3,Slow,Firefox,1366*768,Invalid argument
+4,Medium,Safari,1366*768,Success Page 
+5,Medium,Firefox,1920*1080,Not found
+6,Medium,Google Chrome,1600*900,Invalid argument
+7,Fast,Firefox,1600*900,Success Page 
+8,Fast,Google Chrome,1366*768,Not found
+9,Fast,Safari,1920*1080,Invalid argument

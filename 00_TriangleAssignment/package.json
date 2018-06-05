@@ -1,0 +1,16 @@
+{
+  "name": "getstartedexercise",
+  "version": "1.0.0",
+  "description": "I. Design of test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "escomplex": "^2.0.0-alpha",
+    "jsmeter": "^1.0.15",
+    "junit": "^1.4.9"
+  }
+}
